@@ -56,11 +56,11 @@ def getOffIcon(): return Image.open('assets/icons/offIcon.ico')
 
 def onCredits():
     import webbrowser
-    webbrowser.open('https://www.grigtod.com/')
+    webbrowser.open('http://opentypewriter.com/#info')
 
 def onDonate():
     import webbrowser
-    webbrowser.open('https://www.grigtod.com/donate/')
+    webbrowser.open('http://opentypewriter.com/#donate')
  
 def getToggleMenu():
     global keySoundOn
