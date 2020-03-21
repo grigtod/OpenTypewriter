@@ -4,7 +4,7 @@
     </p>
 </h1>
 <p align="center">
-    <img src="https://opentypewriter.com/images/logo.ico">
+    <img src="https://github.com/grigtod/OpenTypewriter/blob/master/assets/icons/onIcon.ico">
 </p>
 
 #### This software will play sound effects that emulates a typewriter every time you press a keyboard button.
